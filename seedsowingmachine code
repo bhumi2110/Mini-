@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("AUTOMATIC SEED SOWING MACHINE");
+return 0;
+}
